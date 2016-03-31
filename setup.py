@@ -10,7 +10,7 @@ except IOError:
 
 setup(
     name = 'django-json-field',
-    version = '0.5.7-aiotv',
+    version = '0.5.7+aiotv.1',
     description = description,
     author = 'Derek Schaefer',
     author_email = 'derek.schaefer@gmail.com',
